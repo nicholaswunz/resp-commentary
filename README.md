@@ -1,4 +1,4 @@
-![image](https://github.com/nicholaswunz/resp-commentary/assets/42802691/e4e0468f-9cc9-4b70-be82-cfb99b023407)# Reporting guidelines for terrestrial respirometry
+# Reporting guidelines for terrestrial respirometry
 
 [![license](https://img.shields.io/badge/license-MIT%20+%20file%20LICENSE-lightgrey.svg)](https://choosealicense.com/)
 ![Open Source
