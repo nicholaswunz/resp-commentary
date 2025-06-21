@@ -12,7 +12,7 @@ This repository contains the supplementary files for the following manuscript:
 - `Reporting checklist_v2.0.docx` - Word version of the respirometry reporting checklist.
 - `Reporting checklist_v2.0.pdf` - PDF version of the respirometry reporting checklist.
 
-- We welcome feedback from the scientific community to improve reporting checklist. Contact the lead author nicholas.wu.nz@gmail.com to discuss further contribution. 
+We welcome feedback from the scientific community to improve reporting checklist. Contact the lead author nicholas.wu.nz@gmail.com to discuss further contribution. 
 
 ## Abstract
 Respirometry is an important tool for understanding whole-animal energy and water balance in relation to the environment. Consequently, the growing number of studies using respirometry over the last decade warrants reliable reporting and data sharing for effective dissemination and research synthesis. We provide a checklist guideline on five key sections to facilitate the transparency, reproducibility, and replicability of respirometry studies: 1) materials, set up, plumbing, 2) subject conditions/maintenance, 3) measurement conditions, 4) data processing, and 5) data reporting and statistics, each with explanations and example studies. Transparency in reporting and data availability has benefits on multiple fronts. Authors can use this checklist to design and report on their study, and reviewers and editors can use the checklist to assess the reporting quality of the manuscripts they review. Improved standards for reporting will enhance the value of primary studies and will greatly facilitate the ability to carry out higher quality research syntheses to address ecological and evolutionary theories.
