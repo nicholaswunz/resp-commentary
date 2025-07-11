@@ -6,7 +6,7 @@ Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
 This repository contains the supplementary files for the following manuscript:
 
-**Wu N. C., Alton L. A., Bovo R. P., Carey N., Currie S. E., Lighton J. B., McKechnie A. E., Pottier P., Rossi G., White C. R., Levesque D.** (Accepted) Reporting guidelines for terrestrial respirometry: Building openness, transparency of metabolic and evaporative water loss data. *Comparative Biochemistry and Physiology Part A*,
+**Wu N. C., Alton L. A., Bovo R. P., Carey N., Currie S. E., Lighton J. B., McKechnie A. E., Pottier P., Rossi G., White C. R., Levesque D.** (2024) Reporting guidelines for terrestrial respirometry: Building openness, transparency of metabolic and evaporative water loss data. *Comparative Biochemistry and Physiology Part A*, **296**, 1116888
 
 **Supplementary File**
 - `Reporting checklist_v2.0.docx` - Word version of the respirometry reporting checklist.
